@@ -1,7 +1,8 @@
-# Decorator-Clasificaci-n_patrones
+# Decorator-Clasificación-patrones
 Laboratorio Clasificación de patrones y Decorator
 
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Creational patterns | Behavioral patterns | Structural patterns |
+| Singleton |  |  |
+| Factory Method | Proxy | Command |
+| Builder  | Decorator | Chain of Responsibility |
